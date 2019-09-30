@@ -1,0 +1,14 @@
+{
+  "name": "dynamodbtp3",
+  "version": "1.0.0",
+  "description": "TP 3 - AD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AD",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.523.0"
+  }
+}
